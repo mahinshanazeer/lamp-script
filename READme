@@ -1,0 +1,11 @@
+
+Project Task:
+-------------------
+1. Create a sample node-js application.
+2. Containarized sample application using docker - Image created.
+3. Created a bash script to setup LAMP stack and AWS cliin an AWS Instance, also included the script to create a container from the image previously created.
+4. Created a bash script to generate a backup of the server and upload the backfile files to the AWS S3.
+5. Created a cron-job to run the backup script each day a week.
+6. Initiate GIT from the project folder and create an Gitlab remote repo for the project.
+7. Create an AWS codepipeline also using Sonarcube for testing the code.
+8. Setup observability using Promtheus and grafana.
